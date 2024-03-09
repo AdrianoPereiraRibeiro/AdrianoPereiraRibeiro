@@ -4,7 +4,7 @@
 - ⚡ Fun fact: VIDEO GAME IS LIFE🎮🕹️ 
 - 📒Academia do Programador and IFSC student!
 - ❄️Lages-Brazil
--  ![DamonSalvatoreReadingABookOf50shadesOfGrayGIF](https://github.com/AdrianoPereiraRibeiro/AdrianoPereiraRibeiro/assets/161324428/e81f5e89-fd66-4813-8a3b-ce801a67a76b)
+   ![DamonSalvatoreReadingABookOf50shadesOfGrayGIF](https://github.com/AdrianoPereiraRibeiro/AdrianoPereiraRibeiro/assets/161324428/e81f5e89-fd66-4813-8a3b-ce801a67a76b)
 
 <!---
 AdrianoPereiraRibeiro/AdrianoPereiraRibeiro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
