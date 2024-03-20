@@ -1,11 +1,7 @@
-- 👋 Hi, I’m @AdrianoPereiraRibeiro 
-- 🌱 I’m currently learning C#  and JAVA😵‍💫
-- ✉️If you need to talk use my email: adrianoribeiro291005@gmail.com
-- ⚡ Fun fact: VIDEO GAME IS LIFE🎮🕹️ 
-- 📒Academia do Programador and IFSC student!
-- ❄️Lages-Brazil
 
-   ![DamonSalvatoreReadingABookOf50shadesOfGrayGIF](https://github.com/AdrianoPereiraRibeiro/AdrianoPereiraRibeiro/assets/161324428/e81f5e89-fd66-4813-8a3b-ce801a67a76b)
+![Black Flatlay Photo Motivational Finance Quote Facebook Cover](https://github.com/AdrianoPereiraRibeiro/AdrianoPereiraRibeiro/assets/161324428/d1be357f-b15e-49dd-bfcf-040af5cd84de)
+
+  
 
 <!---
 AdrianoPereiraRibeiro/AdrianoPereiraRibeiro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
