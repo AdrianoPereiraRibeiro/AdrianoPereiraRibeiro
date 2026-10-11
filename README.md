@@ -1,6 +1,7 @@
 <div align="center">
 
-<img width="766" height="287" alt="image" src="https://github.com/user-attachments/assets/6ca1108a-03a0-453c-a39f-7b1773b05736" />
+  <img width="1280" height="400" alt="banner-github" src="https://github.com/user-attachments/assets/96b8cf00-e970-4768-ba9b-ff3356588f84" />
+
 
 
 # Olá, eu sou o Adriano 👋
@@ -21,8 +22,8 @@ Interessado em desenvolvimento web, IA e teoria da computação
 
 - 🎓 Cursando Ciência da Computação no **IFSC – Lages**
 - 🔭 Estudando: Inteligência Artificial, Análise de Complexidade e Teoria da Computação
-- 🎮 Fora do código: games e criação de conteúdo (YouTube e Twitch)
-- 🌐 Idiomas: Português (nativo)
+- 🎮 Fora do código: filmes e jogos.
+- 🌐 Idiomas: Português (nativo) e inglês (básico).
 
 ## 🚀 Tecnologias
 
