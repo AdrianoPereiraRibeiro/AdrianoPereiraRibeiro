@@ -1,6 +1,7 @@
 <div align="center">
 
-![Banner](https://github.com/AdrianoPereiraRibeiro/AdrianoPereiraRibeiro/assets/161324428/d1be357f-b15e-49dd-bfcf-040af5cd84de)
+<img width="766" height="287" alt="image" src="https://github.com/user-attachments/assets/6ca1108a-03a0-453c-a39f-7b1773b05736" />
+
 
 # Olá, eu sou o Adriano 👋
 
@@ -20,25 +21,17 @@ Interessado em desenvolvimento web, IA e teoria da computação
 
 - 🎓 Cursando Ciência da Computação no **IFSC – Lages**
 - 🔭 Estudando: Inteligência Artificial, Análise de Complexidade e Teoria da Computação
-- 🛠️ Construindo o **InkManager**, um sistema web de gestão para estúdios de tatuagem
 - 🎮 Fora do código: games e criação de conteúdo (YouTube e Twitch)
 - 🌐 Idiomas: Português (nativo)
 
 ## 🚀 Tecnologias
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📌 Projeto em destaque
-
-### 🖋️ InkManager
-Aplicação web para gerenciar estúdios de tatuagem.
-**Stack:** React (Vite) · C# .NET
-👉 [Ver repositório](https://github.com/AdrianoPereiraRibeiro/InkManager)
 
 ## 📊 Estatísticas
 
